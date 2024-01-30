@@ -1,3 +1,5 @@
+use FacultySystemDB
+
 db.createCollection("Student")
 
 db.Student.insertOne({
